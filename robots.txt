@@ -1,0 +1,19 @@
+# robots.txt for LuxeHomes Nigeria
+User-agent: *
+Allow: /
+
+
+Sitemap: https://desmond845.github.io/LuxeHome/sitemap.xml
+
+# Crawl delay (requests per second)
+Crawl-delay: 10
+
+# Preferred host (www or non-www)
+Host: https://github.com/desmond845
+
+# Advertising bots
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
